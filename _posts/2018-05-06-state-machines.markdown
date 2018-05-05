@@ -2,7 +2,7 @@
 layout: post
 title:  "State Machines and the view"
 date:   2018-05-06 00:00:00 +1000
-categories: adventure
+categories: technical
 ---
 
 The idea of a state that represents what a view is about is something that comes up time and time again in development of an application. But the question remains, what exactly is the state of a view? Is it the data of the view? Is it the visual appearance? Is it some combination? Is it the position within a complex flow of user behaviour that identifies what's going on?
