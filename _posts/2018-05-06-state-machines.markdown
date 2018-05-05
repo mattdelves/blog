@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "State Machines and the view"
-date:   2018-05-06 10:00:00 +1000
+date:   2018-05-06 00:00:00 +1000
 categories: adventure
 ---
 
